@@ -21,7 +21,7 @@ div { position: absolute; }
 }
 
 
-#rectangle_1 {
+header {
 	top: 0px;
 	left: 0px;
 	width: 1920px;
@@ -29,6 +29,11 @@ div { position: absolute; }
 	background:rgba(255,255,255,1);
 }
 
+hr {
+	border: none;
+    border-top: 1px solid black;
+    margin: 0;
+}
 
 #rectangle_14 {
 	top: 306px;
@@ -680,7 +685,7 @@ div { position: absolute; }
 	font-weight: bold;
 	line-height: 107.9px;
 	text-align: center;
-	color:#FFFFFF;
+	color:#111;
 }
 
 
