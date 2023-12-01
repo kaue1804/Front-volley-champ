@@ -1,0 +1,19 @@
+{
+  "name": "front-volley-champ",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaue1804/Front-volley-champ.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaue1804/Front-volley-champ/issues"
+  },
+  "homepage": "https://github.com/kaue1804/Front-volley-champ#readme"
+}

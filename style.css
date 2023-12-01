@@ -1,0 +1,1007 @@
+/*
+	@name p_gina_inicial
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1920px; width: 1920px; height: 2218px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__p_gina_inicial {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 2218px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 189px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_14 {
+	top: 306px;
+	left: 0px;
+	width: 1920px;
+	height: 1502px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_16 {
+	top: 290px;
+	left: 0px;
+	width: 1920px;
+	height: 101px;
+	background:rgba(13,192,223,1);
+}
+
+
+#rectangle_11 {
+	top: 25px;
+	left: 734px;
+	width: 449px;
+	height: 57px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	border: 1px solid #c9c9c9;
+	background:rgba(255,255,255,1);
+}
+
+
+#procurar_1 {
+	top: 37px;
+	left: 1142px;
+	width: 32px;
+	height: 32px;
+}
+
+
+#volleychamp_2 {
+	top: -144px;
+	left: -6px;
+	width: 473px;
+	height: 473px;
+}
+
+
+#pesquisar {
+	top: 26px;
+	left: 750px;
+	width: 172px;
+	height: 62px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	line-height: 57px;
+	text-align: left;
+	color:#B8B8B8;
+}
+
+
+#ellipse_1 {
+	top: 26px;
+	left: 1813px;
+	width: 57px;
+	height: 57px;
+	-ms-border-radius: 28.5px / 28.5px;
+	-o-border-radius: 28.5px / 28.5px;
+	-moz-border-radius: 28.5px / 28.5px;
+	-webkit-border-radius: 28.5px / 28.5px;
+	border-radius: 28.5px / 28.5px;
+	background:rgba(255,204.38,75.44,1);
+}
+
+
+#r {
+	top: 36px;
+	left: 1808px;
+	width: 65.2px;
+	height: 44.2px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 32px;
+	font-weight: bold;
+	line-height: 39.2px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_13 {
+	top: 2020px;
+	left: 0px;
+	width: 1920px;
+	height: 198px;
+	background:rgba(0,134.21,157.45,1);
+}
+
+
+#p_gina_inicial {
+	top: 109px;
+	left: 178px;
+	width: 305.4px;
+	height: 87.4px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	line-height: 82.4px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_meus_torneios {
+	top: 109px;
+	left: 519px;
+	width: 304.4px;
+	height: 87.4px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	line-height: 82.4px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#meu_perfil {
+	top: 109px;
+	left: 1591px;
+	width: 304.4px;
+	height: 87.4px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	line-height: 82.4px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_gerenciar_torneios {
+	top: 109px;
+	left: 1201px;
+	width: 304.4px;
+	height: 87.4px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	line-height: 82.4px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#line_1 {
+	top: 187px;
+	left: -2px;
+	width: 1920px;
+	height: 22px;
+}
+
+
+#line_11 {
+	top: 1005px;
+	left: -2px;
+	width: 1920px;
+	height: 22px;
+}
+
+
+#line_13 {
+	top: 2018px;
+	left: -2px;
+	width: 1920px;
+	height: 22px;
+}
+
+
+#line_12 {
+	top: 288px;
+	left: -4px;
+	width: 1920px;
+	height: 28px;
+}
+
+
+#line_2 {
+	top: 107px;
+	left: -2px;
+	width: 1920px;
+	height: 2px;
+}
+
+
+#_encontrar_torneios {
+	top: 109px;
+	left: 860px;
+	width: 304.4px;
+	height: 87.4px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	line-height: 82.4px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#line_9 {
+	top: 181px;
+	left: 143px;
+	width: 221px;
+	height: 6px;
+}
+
+
+#rectangle_19 {
+	top: 390px;
+	left: 61px;
+	width: 1793px;
+	height: 507px;
+	-ms-border-radius: 7px;
+	-o-border-radius: 7px;
+	-moz-border-radius: 7px;
+	-webkit-border-radius: 7px;
+	border-radius: 7px;
+	border: 2px solid #e1e1e1;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_21 {
+	top: 732px;
+	left: 61px;
+	width: 1793px;
+	height: 173px;
+	border: 2px solid #e1e1e1;
+	background:rgba(255,255,255,1);
+}
+
+
+#line_10 {
+	top: 563px;
+	left: 61px;
+	width: 1793px;
+	height: 2px;
+}
+
+
+#ellipse_5 {
+	top: 433px;
+	left: 103px;
+	width: 75px;
+	height: 75px;
+	-ms-border-radius: 37.5px / 37.5px;
+	-o-border-radius: 37.5px / 37.5px;
+	-moz-border-radius: 37.5px / 37.5px;
+	-webkit-border-radius: 37.5px / 37.5px;
+	border-radius: 37.5px / 37.5px;
+	background:rgba(255,145.52,83.94,1);
+}
+
+
+#torneio_martin_de_s_ {
+	top: 430px;
+	left: 199px;
+	width: 322.4px;
+	height: 47.4px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	line-height: 42.4px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_2_categorias {
+	top: 444px;
+	left: 1192px;
+	width: 187.4px;
+	height: 37.4px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	line-height: 32.4px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#nenhuma_dupla_inscrita {
+	top: 480px;
+	left: 1158px;
+	width: 315.3px;
+	height: 37.3px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 23px;
+	line-height: 32.3px;
+	text-align: left;
+	color:#B8B8B8;
+}
+
+
+#__torneiomartin {
+	top: 464px;
+	left: 199px;
+	width: 262px;
+	height: 28px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	line-height: 23px;
+	text-align: left;
+	color:#B8B8B8;
+}
+
+
+#caraguatatuba___sp {
+	top: 501px;
+	left: 219px;
+	width: 262px;
+	height: 19px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	line-height: 14px;
+	text-align: left;
+	color:#B8B8B8;
+}
+
+
+#mapas_e_bandeiras_1 {
+	top: 499px;
+	left: 199px;
+	width: 17px;
+	height: 17px;
+}
+
+
+#rectangle_23 {
+	top: 441px;
+	left: 1498px;
+	width: 290px;
+	height: 66px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(13,192,223,1);
+}
+
+
+#inscreva_se {
+	top: 441px;
+	left: 1494px;
+	width: 298px;
+	height: 69.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 25px;
+	font-weight: bold;
+	line-height: 64.5px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#lista_de_reproducao_1 {
+	top: 447px;
+	left: 1158px;
+	width: 24px;
+	height: 24px;
+}
+
+
+#ellipse_6 {
+	top: 610px;
+	left: 103px;
+	width: 75px;
+	height: 75px;
+	-ms-border-radius: 37.5px / 37.5px;
+	-o-border-radius: 37.5px / 37.5px;
+	-moz-border-radius: 37.5px / 37.5px;
+	-webkit-border-radius: 37.5px / 37.5px;
+	border-radius: 37.5px / 37.5px;
+	background:rgba(106.73,202.16,208.25,1);
+}
+
+
+#campeonato_guaru__ {
+	top: 609px;
+	left: 199px;
+	width: 322.4px;
+	height: 43.4px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	line-height: 38.4px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_2_categorias_ek1 {
+	top: 621px;
+	left: 1192px;
+	width: 187.4px;
+	height: 37.4px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	line-height: 32.4px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_10_duplas_inscritas {
+	top: 657px;
+	left: 1158px;
+	width: 315.3px;
+	height: 37.3px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 23px;
+	line-height: 32.3px;
+	text-align: left;
+	color:#B8B8B8;
+}
+
+
+#__campguaruca {
+	top: 641px;
+	left: 199px;
+	width: 262px;
+	height: 28px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	line-height: 23px;
+	text-align: left;
+	color:#B8B8B8;
+}
+
+
+#caraguatatuba___sp_ek1 {
+	top: 678px;
+	left: 219px;
+	width: 262px;
+	height: 19px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	line-height: 14px;
+	text-align: left;
+	color:#B8B8B8;
+}
+
+
+#mapas_e_bandeiras_2 {
+	top: 676px;
+	left: 199px;
+	width: 17px;
+	height: 17px;
+}
+
+
+#rectangle_25 {
+	top: 618px;
+	left: 1498px;
+	width: 290px;
+	height: 66px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(13,192,223,1);
+}
+
+
+#inscreva_se_ek1 {
+	top: 618px;
+	left: 1494px;
+	width: 298px;
+	height: 69.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 25px;
+	font-weight: bold;
+	line-height: 64.5px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#lista_de_reproducao_2 {
+	top: 624px;
+	left: 1158px;
+	width: 24px;
+	height: 24px;
+}
+
+
+#ellipse_7 {
+	top: 778px;
+	left: 103px;
+	width: 75px;
+	height: 75px;
+	-ms-border-radius: 37.5px / 37.5px;
+	-o-border-radius: 37.5px / 37.5px;
+	-moz-border-radius: 37.5px / 37.5px;
+	-webkit-border-radius: 37.5px / 37.5px;
+	border-radius: 37.5px / 37.5px;
+	background:rgba(112.67,189.13,111.11,1);
+}
+
+
+#torneio_caragu_ {
+	top: 778px;
+	left: 199px;
+	width: 348.4px;
+	height: 43.4px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	line-height: 38.4px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_2_categorias_ek2 {
+	top: 789px;
+	left: 1192px;
+	width: 187.4px;
+	height: 37.4px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	line-height: 32.4px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_10_duplas_inscritas_ek1 {
+	top: 825px;
+	left: 1158px;
+	width: 315.3px;
+	height: 37.3px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 23px;
+	line-height: 32.3px;
+	text-align: left;
+	color:#B8B8B8;
+}
+
+
+#__torneiocaragua {
+	top: 809px;
+	left: 199px;
+	width: 262px;
+	height: 28px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	line-height: 23px;
+	text-align: left;
+	color:#B8B8B8;
+}
+
+
+#caraguatatuba___sp_ek2 {
+	top: 846px;
+	left: 219px;
+	width: 262px;
+	height: 19px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	line-height: 14px;
+	text-align: left;
+	color:#B8B8B8;
+}
+
+
+#mapas_e_bandeiras_3 {
+	top: 844px;
+	left: 199px;
+	width: 17px;
+	height: 17px;
+}
+
+
+#rectangle_26 {
+	top: 786px;
+	left: 1498px;
+	width: 290px;
+	height: 66px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(13,192,223,1);
+}
+
+
+#inscreva_se_ek2 {
+	top: 786px;
+	left: 1494px;
+	width: 298px;
+	height: 69.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 25px;
+	font-weight: bold;
+	line-height: 64.5px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#lista_de_reproducao_3 {
+	top: 792px;
+	left: 1158px;
+	width: 24px;
+	height: 24px;
+}
+
+
+#participe__crie_e_organize_torneios {
+	top: 189px;
+	left: 410px;
+	width: 1095px;
+	height: 112.9px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 39px;
+	font-weight: bold;
+	line-height: 107.9px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#torneios_mais_recentes {
+	top: 329px;
+	left: 57px;
+	width: 419px;
+	height: 63.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 35px;
+	line-height: 58.5px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#ellipse_9 {
+	top: 1188px;
+	left: 77px;
+	width: 400px;
+	height: 400px;
+	-ms-border-radius: 200px / 200px;
+	-o-border-radius: 200px / 200px;
+	-moz-border-radius: 200px / 200px;
+	-webkit-border-radius: 200px / 200px;
+	border-radius: 200px / 200px;
+	border: 1px solid #e1e1e1;
+	background:rgba(255,255,255,1);
+}
+
+
+#feminino {
+	top: 1630px;
+	left: 597px;
+	width: 125.3px;
+	height: 42.3px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 23px;
+	line-height: 37.3px;
+	text-align: left;
+	color:#606060;
+}
+
+
+#masculino {
+	top: 1675px;
+	left: 596px;
+	width: 136.3px;
+	height: 42.3px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 23px;
+	line-height: 37.3px;
+	text-align: left;
+	color:#606060;
+}
+
+
+#rectangle_36 {
+	top: 1840px;
+	left: 786px;
+	width: 378px;
+	height: 86px;
+	-ms-border-radius: 9px;
+	-o-border-radius: 9px;
+	-moz-border-radius: 9px;
+	-webkit-border-radius: 9px;
+	border-radius: 9px;
+	border: 0px solid #e1e1e1;
+	background:rgba(255,194.01,37.19,1);
+}
+
+
+#criar_torneio {
+	top: 1857px;
+	left: 854px;
+	width: 240px;
+	height: 63.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 35px;
+	font-weight: bold;
+	line-height: 58.5px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#crie_seu_torneio {
+	top: 1057px;
+	left: 780px;
+	width: 296px;
+	height: 63.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 35px;
+	font-weight: bold;
+	line-height: 58.5px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_37 {
+	top: 1208px;
+	left: 574px;
+	width: 584px;
+	height: 51px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	border: 1px solid #c9c9c9;
+	background:rgba(255,255,255,1);
+}
+
+
+#nome_do_torneio_campeonato {
+	top: 1164px;
+	left: 565px;
+	width: 382px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: bold;
+	line-height: 45px;
+	text-align: left;
+	color:#606060;
+}
+
+
+#rectangle_38 {
+	top: 1314px;
+	left: 574px;
+	width: 584px;
+	height: 51px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	border: 1px solid #c9c9c9;
+	background:rgba(255,255,255,1);
+}
+
+
+#nome_de_usu_rio {
+	top: 1270px;
+	left: 565px;
+	width: 300px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: bold;
+	line-height: 45px;
+	text-align: left;
+	color:#606060;
+}
+
+
+#rectangle_39 {
+	top: 1525px;
+	left: 574px;
+	width: 584px;
+	height: 51px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	border: 1px solid #c9c9c9;
+	background:rgba(255,255,255,1);
+}
+
+
+#data {
+	top: 1482px;
+	left: 565px;
+	width: 154px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: bold;
+	line-height: 45px;
+	text-align: left;
+	color:#606060;
+}
+
+
+#categorias {
+	top: 1587px;
+	left: 565px;
+	width: 212px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: bold;
+	line-height: 45px;
+	text-align: left;
+	color:#606060;
+}
+
+
+#rectangle_40 {
+	top: 1420px;
+	left: 574px;
+	width: 584px;
+	height: 51px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	border: 1px solid #c9c9c9;
+	background:rgba(255,255,255,1);
+}
+
+
+#local {
+	top: 1376px;
+	left: 565px;
+	width: 212px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: bold;
+	line-height: 45px;
+	text-align: left;
+	color:#606060;
+}
+
+
+#rectangle_41 {
+	top: 1208px;
+	left: 1256px;
+	width: 584px;
+	height: 431px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	border: 1px solid #c9c9c9;
+	background:rgba(255,255,255,1);
+}
+
+
+#descri__o__regulamento_ {
+	top: 1164px;
+	left: 1247px;
+	width: 382px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: bold;
+	line-height: 45px;
+	text-align: left;
+	color:#606060;
+}
+
+
+#rectangle_42 {
+	top: 1639px;
+	left: 565px;
+	width: 18px;
+	height: 18px;
+	border: 1px solid #c9c9c9;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_43 {
+	top: 1683px;
+	left: 565px;
+	width: 18px;
+	height: 18px;
+	border: 1px solid #c9c9c9;
+	background:rgba(255,255,255,1);
+}
+
+
+#misto {
+	top: 1720px;
+	left: 596px;
+	width: 80.3px;
+	height: 42.3px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 23px;
+	line-height: 37.3px;
+	text-align: left;
+	color:#606060;
+}
+
+
+#rectangle_44 {
+	top: 1728px;
+	left: 565px;
+	width: 18px;
+	height: 18px;
+	border: 1px solid #c9c9c9;
+	background:rgba(255,255,255,1);
+}
+
+
+#image_12 {
+	top: 1339px;
+	left: 228px;
+	width: 100px;
+	height: 100px;
+}
+
+
+
+/* Add your custom CSS here */
